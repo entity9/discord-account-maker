@@ -1,5 +1,5 @@
 NEW VERSION: 6/9/2021
-- Fixed date error - https://github.com/notmoaiad
+- Fixed date error - 
 
 How to use
 You can customize usernames by editing the usernames in discord_usernames.txt.
